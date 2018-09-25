@@ -1,0 +1,47 @@
+h1 {
+  font-weight: bold;
+  color: Black;
+  text-align: center;
+  font-size: 38px;
+  padding: 14px;
+}
+
+h2 {
+  margin: 10px;
+  font-size: 32px;
+}
+
+img {itsme.jpeg
+  float: right;
+  text-align: right;
+}
+
+.my-class {
+  margin: 10px;
+  border: 3px solid black;
+  padding: 14px;
+  background-color: tan;
+  width: 50%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+li {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.background {
+  background-color: teal;
+  border: 5px solid black;
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+img.main {
+  float: right;
+}
