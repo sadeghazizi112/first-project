@@ -11,11 +11,10 @@ h2 {
   font-size: 32px;
 }
 
-img {itsme.jpeg
+img.main {
   float: right;
   text-align: right;
   padding: 5px;
-  position: 20px; left;
   position: absolute;
   left: 715px;
   margin: 53px;
@@ -44,12 +43,4 @@ li {
 .background {
   background-color: teal;
   border: 5px solid black;
-}
-
-@media screen and (max-width: 768px) {
-
-}
-
-img.main {
-  float: right;
 }
